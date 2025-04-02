@@ -2,5 +2,7 @@
 *.blend2
 *.pyc
 __pycache__
+venv/
+.env
 .vscode/
 .idea/
